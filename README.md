@@ -16,3 +16,8 @@
 ## 此速查手册协议
 
 [GPL-3.0](LICENSE)
+
+## 维护
+
+1. 可编辑文件 `generator\map.js`
+2. 生成Cheat Sheet,在与`README.md`同级的目录下执行`node ./generator/generator`, 若系统为windows, 则可执行`gen`
