@@ -4,6 +4,12 @@
 
 ## 使用
 
+### 在线
+
+[https://hangxingliu.github.io/FontAwesomeCheatsheet/cheatsheet.html](https://hangxingliu.github.io/FontAwesomeCheatsheet/cheatsheet.html)
+
+### 本地
+
 1. 把这个项目clone下来
 2. 用浏览器打开`cheatsheet.html`
 3. `ctrl+f`查找你需要的图标的关键字就能找到对应的图标的样式名了
@@ -17,7 +23,7 @@
 
 [GPL-3.0](LICENSE)
 
-## 维护
+## 维护,修改
 
-1. 可编辑文件 `generator\map.js`
-2. 生成Cheat Sheet,在与`README.md`同级的目录下执行`node ./generator/generator`, 若系统为windows, 则可执行`gen`
+1. 编辑文件 `generator\map.js`
+2. 生成Cheat Sheet,在与`README.md`同级的目录下执行`npm start`或(`gen.cmd`, Windows操作系统下)

@@ -1,0 +1,23 @@
+{
+  "name": "font-awesome-cheatsheet",
+  "version": "1.0.0",
+  "description": "font-awesome-cheatsheet",
+  "main": "generator/generator.js",
+  "scripts": {
+    "test": "node ./generator/generator",
+    "start": "node ./generator/generator"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hangxingliu/FontAwesomeCheatsheet.git"
+  },
+  "keywords": [
+    "cheatsheet"
+  ],
+  "author": "LiuYue",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/hangxingliu/FontAwesomeCheatsheet/issues"
+  },
+  "homepage": "https://github.com/hangxingliu/FontAwesomeCheatsheet#readme"
+}
